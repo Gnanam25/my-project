@@ -1,14 +1,14 @@
 # my-project
 main.py
-admin
+#admin
 stream_log.py
 stream_img.py
 stream_video.py
-user
+#user
 main2.py
 register.py
 login.py
 booking.py
-readme
+#readme
 ppt
 pdf
